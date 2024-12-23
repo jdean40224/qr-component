@@ -22,8 +22,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ![](./Screenshot.png)
 
 ### Links
-- Solution URL: [https://github.com/jdean40224/qr-code-compon.git]
-- Live Site URL:[]
+- Solution URL: [https://jdean40224.github.io/qr-component/](https://jdean40224.github.io/qr-component/)
 
 ### Built with
 
@@ -44,8 +43,7 @@ In further project I want to develop a deeper understanding of how to use flexbo
 
 [Flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout/Basic_concepts_of_flexbox) - It is a useful article which has helped me gain a basic understanding of the concepts for flexbox.
 
-[Card](https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook/Card)
-- It is a useful article that helped me for develop a better understanding of how to layout a good information card.
+[Card](https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook/Card) - It is a useful article that helped me for develop a better understanding of how to layout a good information card.
 
 ## Author
 
